@@ -1,0 +1,118 @@
+body{
+    background-color: #B95DF0;
+    margin: 0;
+    padding: 0;
+    color: #F8F8FF;
+}
+.container{
+    max-width: 500px;
+    padding: 30px;
+    margin: 0  auto;
+    border-radius: 10px;
+    background-color: #7D4AD9;
+}
+
+#foto{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+    color: #F8F8FF;
+}
+.grupo-formulario{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+input{
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 16px;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #CB4AD9 ;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  button:hover{
+    background-color: #6354F8;
+  }
+#botao_talarica{
+    margin-top: 10px;
+    text-align: center;
+  }
+#seta{
+    margin-top: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+#foto{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+    color: #F8F8FF;
+}
+.grupo-formulario{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+input{
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 16px;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #CB4AD9 ;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  button:hover{
+    background-color: #6354F8;
+  }
+#botao_talarica{
+    margin-top: 10px;
+    text-align: center;
+  }
+#seta{
+    margin-top: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
