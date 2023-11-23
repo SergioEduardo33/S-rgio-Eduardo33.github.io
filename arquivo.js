@@ -1,8 +1,8 @@
 const usuario_input = document.getElementById("usuario");
 const senha_input = document.getElementById("senha");
 
-const usuario_oficial = "ola"; //calopsita
-const senha_oficial = "123";//benjamin19032022
+const usuario_oficial = "calopsita"; //calopsita
+const senha_oficial = "benjamin19032022";//benjamin19032022
 
 const botao_entrar= document.getElementById("entrar");
 botao_entrar.addEventListener("click",function(event){
